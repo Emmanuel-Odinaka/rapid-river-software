@@ -6,17 +6,15 @@ This project is a Frontend React application developed using Vite and Typescript
 
 - React
 - TypeScript
-- Vite (for build setup)
+- Vite (build tool)
 - Vitest (for unit testing)
-- Axios (for API communication)
+- Axios (for API Integration)
 - React Router (for navigation between pages.)
-- Tailwind CSS (styling)
+- Tailwind CSS (styling the application)
 
 ## Pages
 
 ### Results Page
-
-The Results page allows users to search for existing articles. It includes:
 
 - Users can search for existing articles by author id or title.
 - A single input field and a search button facilitate the search operation.
@@ -55,6 +53,6 @@ The Results page allows users to search for existing articles. It includes:
    yarn test
    ```
 
-## Usage
+## To view application
 
 - Navigate to `http://localhost:5173` to view the application.
